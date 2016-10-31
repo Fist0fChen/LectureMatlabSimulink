@@ -1,5 +1,2 @@
 %Test
-a = 1;
-b = 2;
-
-c = a + b;
+%Exercises of the Matlab Simulink for Computer Aided Engineering
